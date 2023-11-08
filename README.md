@@ -2,7 +2,7 @@
 Welcome to my profile!
 ## 📖 Contact Me
 Discord: darkz0823
-Dark Store: https://discord.gg/dZDcJh24nN
+Dark Store: (https://discord.gg/XTmfUpzEt3)
 ### Programming Languages
 * Python
 * Javascript
