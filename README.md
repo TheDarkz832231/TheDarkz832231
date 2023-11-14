@@ -13,5 +13,5 @@
 
 
 ### My status:
-<a href="https://discord.com/users/1074964943817949225"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/1074964943817949225?theme=dark&idleMessage=Discord:%20dsc.gg/XTmfUpzEt3&showDisplayName=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false"/></a>
+<a href="https://discord.com/users/1074964943817949225"><img align="center" src="https://lanyard-profile-readme-nyria.vercel.app/api/1074964943817949225?theme=dark&idleMessage=Discord:%20dsc.gg/XTmfUpzEt3&showDisplayName=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false"/></a>
 
