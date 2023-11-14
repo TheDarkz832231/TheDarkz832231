@@ -13,6 +13,6 @@
 
 
 ### My status:
-<a href="https://discord.com/users/1074964943817949225"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/1074964943817949225"/> </a>
+<a href="https://discord.com/users/1074964943817949225"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/1074964943817949225"/></a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31of7fgpuewr4vvkzq3qes5zr5bm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31of7fgpuewr4vvkzq3qes5zr5bm&redirect=true)
